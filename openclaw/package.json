@@ -1,6 +1,6 @@
 {
   "name": "@covision-admin/covision",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Covision Agent Plugins bundle for OpenClaw.",
   "license": "Apache-2.0"
 }
