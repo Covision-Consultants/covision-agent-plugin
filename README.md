@@ -44,3 +44,7 @@ actual Covision organization and consent grant.
 ## License
 
 [Apache-2.0](LICENSE)
+
+## OpenClaw directory
+
+Covision is available on ClawHub as a verified read-only skill: `@covision-admin/covision`. It uses the same MCP connection instructions in [docs/openclaw.md](docs/openclaw.md).
